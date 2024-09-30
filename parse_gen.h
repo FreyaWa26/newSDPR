@@ -43,6 +43,7 @@ typedef struct {
     vector<string> snplist;
     vector<double> sz;
     vector<int> array;
+    double rho_1,rho_2,rho_3;
 } Dat;
 
 typedef struct {
